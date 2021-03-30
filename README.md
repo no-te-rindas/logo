@@ -1,9 +1,10 @@
-<center><img src="Logo/LeonidasEsteban-destello-envolvente-cuadrada.png"
-     alt="LeonidasEsteban"
-     style="float: left; margin-right: 10px; width: 30%" /></center>
+<p align="center">
+  <img src="Logo/LeonidasEsteban-destello-envolvente-cuadrada.png"
+    width="150" height="150"/>
+</p>
 
-# Repositorio de Logo de LeonidasEsteban.com
+# LeonidasEsteban.com
 
-Este es el repositorio que contiene todas las aplicaciones del logo de LeonidasEsteban.com
+Este es el repositorio que contiene todas las aplicaciones del logo de [LeonidasEsteban.com](https://leonidasesteban.com/)
 
 > :star2: Están en la carpeta de Logo
